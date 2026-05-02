@@ -1,4 +1,4 @@
-# Henry 👋
+# Henry 
 
 ### Cybersecurity Engineer in Training | SOC • Detection • Cloud
 
