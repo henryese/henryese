@@ -1,15 +1,14 @@
-# Henry 
+# Henry 👋
 
 ### Cybersecurity Engineer in Training | SOC • Detection • Cloud
 
-I'm building practical, hands-on skills across the security stack with a focus 
-on security operations, detection engineering, and cloud security. This profile 
-is where I document my lab work and projects as I progress.
+I'm building practical, hands-on skills across the security stack with a focus on security operations, detection engineering, and cloud security. This profile is where I document my lab work and projects as I progress.
 
+📍 Greater Manchester, UK
 
---- 📍 Greater Manchester, UK
+---
 
-## Lab Environment
+##  Lab Environment
 
 A self-built lab I use for hands-on learning and project work:
 
@@ -20,7 +19,7 @@ A self-built lab I use for hands-on learning and project work:
 
 ---
 
-## ocus Areas
+##  Focus Areas
 
 - **Security Operations** — SIEM, log analysis, alert triage, incident response
 - **Detection Engineering** — writing and tuning detection rules
@@ -29,12 +28,11 @@ A self-built lab I use for hands-on learning and project work:
 
 ---
 
-## Currently Working On
+##  Currently Working On
 
-**SIEM Lab with Security Onion** — deploying Security Onion in a virtual lab, 
-ingesting logs from a Windows endpoint, and investigating simulated attacks.
+**SIEM Lab with Security Onion** — deploying Security Onion in a virtual lab, ingesting logs from a Windows endpoint, and investigating simulated attacks.
 
-📂 Repository: [siem-lab-security-onion](#) *(link will go here once created)*
+📂 Repository: [siem-lab-security-onion](https://github.com/henryese/siem-lab-security-onion)
 
 ---
 
@@ -44,7 +42,6 @@ ingesting logs from a Windows endpoint, and investigating simulated attacks.
 
 ---
 
+##  Get in Touch
 
-
-
-- **Email:** *homadide@yahoo.com*
+Email: homadide@yahoo.com
