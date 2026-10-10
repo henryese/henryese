@@ -1,5 +1,4 @@
 # Henry 👋
-
 ### Cybersecurity Engineer in Training | SOC • Detection • Cloud
 
 I'm building practical, hands-on skills across the security stack with a focus on security operations, detection engineering, and cloud security. This profile is where I document my lab work and projects as I progress.
@@ -8,18 +7,19 @@ I'm building practical, hands-on skills across the security stack with a focus o
 
 ---
 
-##  Lab Environment
+## Lab Environment
 
 A self-built lab I use for hands-on learning and project work:
 
-- **Hypervisor:** Oracle VirtualBox
-- **SIEM / NSM:** Security Onion
-- **Endpoint:** Windows 11
+- **Hypervisor:** VMware Workstation Pro
+- **SIEM:** Wazuh 4.8.2 (manager / indexer / dashboard)
+- **Network IDS:** Suricata + Snort
+- **Endpoint telemetry:** Sysmon + Windows Defender
 - **Offensive testing:** Kali Linux
 
 ---
 
-##  Focus Areas
+## Focus Areas
 
 - **Security Operations** — SIEM, log analysis, alert triage, incident response
 - **Detection Engineering** — writing and tuning detection rules
@@ -28,20 +28,14 @@ A self-built lab I use for hands-on learning and project work:
 
 ---
 
-##  Currently Working On
-
-**SIEM Lab with Security Onion** — deploying Security Onion in a virtual lab, ingesting logs from a Windows endpoint, and investigating simulated attacks.
-
-📂 Repository: [siem-lab-security-onion](https://github.com/henryese/siem-lab-security-onion)
-
----
-
 ## 📁 Projects
 
-*Documented lab work and projects will appear here as I complete them.*
+**[wazuh-soc-lab](https://github.com/henryese/wazuh-soc-lab)** A five-VM threat-detection lab built around Wazuh, with network (Suricata, Snort) and endpoint (Sysmon, Defender) detection. Simulated real attacks, found three detection gaps, and closed them, including tuning a noisy scan rule from 400 alerts down to 1.
+
+**[phishing-investigation-report](https://github.com/henryese/phishing-investigation-report)** — A full phishing investigation of a fake supplier-invoice (BEC) email: header and authentication analysis, IOC enrichment, MITRE ATT&CK mapping, and a reusable incident-response playbook. Produced as a 47-page SOC report.
 
 ---
 
-##  Get in Touch
+## Get in Touch
 
 Email: homadide@yahoo.com
